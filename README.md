@@ -6,7 +6,7 @@
 - My Skills: Web development, software engineering, cloud development.
 - Programming tools: I am a Web Developer ( Node js + React + Golang) are my specialty
 - Other skills: Database administration(SQL), C#, DevOps, Cloud development
-
+[![Valerie's GitHub stats](https://github-readme-stats.vercel.app/api?username=valgrace)](https://github.com/valgrace/github-readme-stats)
 <!---
 ValGrace/ValGrace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
