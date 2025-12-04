@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Grace Valerie Anyango
-- 👀 I’m interested in Software development and all things technology.
+- ⚙️I’m interested in Software development and all things technology.
  
-- 💞️ I’m looking for opportunities in software and cloud engineering.
-- 📫 How to reach me gracevalerie1@gmail.com
+- 🤖👩‍💻☁️I’m looking for opportunities in software and cloud engineering.
+- 📩📧 How to reach me gracevalerie1@gmail.com
 - My Skills: Web development, software engineering, cloud development.
 - Programming tools: I am a Web Developer ( Node js + React + Golang) are my specialty
 - Other skills: Database administration(SQL), C#, DevOps, Cloud development
