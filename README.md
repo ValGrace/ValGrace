@@ -1,11 +1,26 @@
-- 👋 Hi, I’m Grace Valerie Anyango
-- ⚙️I’m interested in Software development and all things technology.
- 
-- 🤖👩‍💻☁️I’m looking for opportunities in software and cloud engineering.
-- 📩📧 How to reach me gracevalerie1@gmail.com
-- My Skills: Web development, software engineering, cloud development.
-- Programming tools: I am a Web Developer ( Node js + React + Golang) are my specialty
-- Other skills: Database administration(SQL), C#, DevOps, Cloud development
+👋 Hi, I’m Grace Valerie Anyango  
+
+⚙️ I enjoy designing and building secure, reproducible systems.  
+
+🤖👩‍💻☁️ My focus is on **Data and backend engineering, DevOps, and security research**, where I build modular tools, debug complex pipelines, and operationalize safe, scalable workflows.  
+
+📩 Reach me at: **gracevalerie1@gmail.com**  
+
+### 💡 Core Skills  
+- Software & Data Engineering  
+- Security Research  
+- DevOps 
+- Analytics 
+
+### 🛠️ Programming Expertise  
+- **Node.js**, **React**, **Golang**, **TypeScript**
+
+
+### 🔧 Additional Skills  
+- Database Administration (**SQL**)  
+- **C#** Development  
+- DevOps & Containerization (**Docker**)  
+-  Infrastructure Security  
 [![Valerie's GitHub stats](https://github-readme-stats.vercel.app/api?username=valgrace)](https://github.com/valgrace/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valgrace&hide_progress=true)
