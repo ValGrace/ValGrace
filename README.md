@@ -2,7 +2,7 @@
 
 ⚙️ I enjoy designing and building secure, reproducible systems.  
 
-🤖👩‍💻☁️ My focus is on **Data and backend engineering, DevOps, and security research**, where I build modular tools, debug complex pipelines, and operationalize safe, scalable workflows.  
+🤖👩‍💻☁️ I am a **Data engineer**,  building modular tools, debug complex pipelines, and operationalizing safe, scalable workflows.  
 
 📩 Reach me at: **gracevalerie1@gmail.com**  
 
