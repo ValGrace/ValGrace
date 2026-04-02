@@ -3,8 +3,7 @@
 ⚙️ I enjoy designing and building secure, reproducible systems.  
 
 🤖👩‍💻☁️ I am a **Data engineer**,  building modular tools, debug complex pipelines, and operationalizing safe, scalable workflows.  
-
-📩 Reach me at: **gracevalerie1@gmail.com**  
+ 
 
 ### 💡 Core Skills  
 - Software & Data Engineering  
